@@ -3,7 +3,7 @@
 This project is a hands-on exploratory data analysis of a roller coaster dataset found on kaggle.
 ##  Project Overview
 
-- **Dataset**: Roller Coaster Database (uploaded manually)
+- **Dataset**: Roller Coaster Database (Kaggle)
 - **Goal**: Explore coaster characteristics such as height, speed, location, and opening dates
 - **Techniques Used**:
   - Data cleaning and deduplication
